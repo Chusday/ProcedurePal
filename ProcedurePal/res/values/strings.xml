@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Procedure Pal</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="edit_message">Enter a your name</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_main">Procedure Pal</string>
+    <string name="title_activity_display_message">Procedure Pal</string>
+    <string name="button_multichoice">Multiple Choice</string>
+    <string name="title_activity_multiple_choice">Procedure Pal</string>
+    <string name="multichoice_message">Filler Question</string>
+    <string name="multichoice_message2">this is the second question</string>
+    <string name="title_activity_drag_and_drop">Procedure Pal</string>
+    <string name="title_activity_fullscreen">Procedure Pal</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_instructions">Procedure Pal</string>
+    <string name="title_activity_drag">Procedure Pal</string>
+    <string name="title_activity_data">Procedure Pal</string>
+
+    <string-array name="names">
+        <item>Name: </item>
+        <item>Other Name</item>
+        <item>Words</item>
+        <item>Kappa</item>
+        <item>asdf</item>
+        <item>ffggasdad</item>
+        <item>Nicholas Cage</item>
+        <item>yes</item>
+    </string-array>
+
+    <string name="title_activity_quiz_choice">QuizChoice</string>
+    <string name="title_activity_menu">MenuActivity</string>
+
+</resources>
