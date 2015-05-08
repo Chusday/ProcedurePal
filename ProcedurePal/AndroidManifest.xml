@@ -16,7 +16,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.example.myfirstapp.MainActivity"
+            android:name="com.example.procedurepal.MainActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -25,45 +25,45 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.myfirstapp.QuizActivity"
+            android:name="com.example.procedurepal.QuizActivity"
             android:label="@string/title_activity_display_message"
-            android:parentActivityName="com.example.myfirstapp.MainActiviy" >
+            android:parentActivityName="com.example.procedurepal.MainActiviy" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.myfirstapp.MainActiviy" />
         </activity>
         <activity
-            android:name="com.example.myfirstapp.DisplayMessageActivity"
+            android:name="com.example.procedurepal.DisplayMessageActivity"
             android:label="@string/title_activity_multiple_choice" >
         </activity>
         <activity
-            android:name="com.example.myfirstapp.DragAndDropActivity"
+            android:name="com.example.procedurepal.DragAndDropActivity"
             android:label="@string/title_activity_drag_and_drop" >
         </activity>
         <activity
-            android:name="com.example.myfirstapp.FullscreenActivity"
+            android:name="com.example.procedurepal.FullscreenActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_fullscreen"
             android:theme="@style/FullscreenTheme" >
         </activity>
         <activity
-            android:name="com.example.myfirstapp.Instructions"
+            android:name="com.example.procedurepal.Instructions"
             android:label="@string/title_activity_instructions" >
         </activity>
         <activity
-            android:name="com.example.myfirstapp.DragActivity"
+            android:name="com.example.procedurepal.DragActivity"
             android:label="@string/title_activity_drag" >
         </activity>
         <activity
-            android:name="com.example.myfirstapp.DataActivity"
+            android:name="com.example.procedurepal.DataActivity"
             android:label="@string/title_activity_data" >
         </activity>
         <activity
-            android:name="com.example.myfirstapp.QuizChoice"
+            android:name="com.example.procedurepal.QuizChoice"
             android:label="@string/title_activity_quiz_choice" >
         </activity>
         <activity
-            android:name="com.example.myfirstapp.MenuActivity"
+            android:name="com.example.procedurepal.MenuActivity"
             android:label="@string/title_activity_menu" >
         </activity>
     </application>
